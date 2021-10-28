@@ -10,4 +10,4 @@
 ## 5 prog
 ![Untitled Diagram drawio (7)](https://user-images.githubusercontent.com/91655905/139196660-6d44c2be-a34a-454c-b733-368b28e404f9.png)
 ## 6 prog
-![Untitled Diagram drawio (9)](https://user-images.githubusercontent.com/91655905/139196612-911bd59f-5588-4627-9841-389cbc2d51e4.png)
+![Untitled Diagram drawio (10)](https://user-images.githubusercontent.com/91655905/139197099-629d72df-048c-4bf2-83cb-6fc2c03305eb.png)
